@@ -21,6 +21,7 @@ Mines: 2g
 [b]Orcs[/b]
 Worker: Goblin Spearman (8g)
 Scholar: Orcish Shaman (18g)
+	# Change to Orcish Archer?? Troll Shaman??
 + Can dig caves and build cave villages.
 + Warfare research target is 1 point lower.
 - Cannot donate funds.
@@ -78,6 +79,7 @@ Mines: 3g
 [b]Dwarves[/b]
 Worker: Digger (8g)
 Scholar: Runeadept (18g)
+	# Change it to… ?
 + Can dig caves and build villages in caves.
 + Can build mines for 20gp, 5gp cheaper than other factions.
 - Can only build dwarvish villages for 20gp, 5gp more expensive than other factions.
@@ -96,9 +98,27 @@ Diplomacy: ???
 Farms: 2g
 Mines: 2g
 
+[b]Khalifate[/b]
+Worker: ??? (?g)
+Scholar: Hakim (18g)
+Diplomacy: ???
++ Can build villages in sand
 
+Farms: 3g
+Mines: 3g
 
+[b]Mermen[/b]
+Worker: ??? (?g)
+Scholar: Mermaid Initiate
+Diplomacy: Human, Elf
++ Can build towns in water
++ Can build flooded castle; can flood castles; can build castles in water
++ Can farm water lily
+- Merman are slow on land.
+- Cannot destroy castles, villages and bridges.
 
+Farms: 3g
+Mines: 2g
 
 
 
