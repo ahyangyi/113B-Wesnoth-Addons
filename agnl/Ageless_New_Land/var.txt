@@ -1,8 +1,0 @@
-macros/general_macros.cfg:    [removeitem]
-macros/general_macros.cfg:    [/removeitem]
-macros/general_macros.cfg:    [removeitem]
-macros/general_macros.cfg:    [/removeitem]
-scenarios/TGW/pickup_items.cfg:    [removeitem]
-scenarios/TGW/pickup_items.cfg:    [/removeitem]
-scenarios/TGW/pickup_items.cfg:    [removeitem]
-scenarios/TGW/pickup_items.cfg:    [/removeitem]
