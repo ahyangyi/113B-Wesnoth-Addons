@@ -1,9 +1,0 @@
-author="Ahyangyi, Ebonnov"
-title="Ageless New Land"
-icon=" "
-version="0.0"
-description="An expansion of A New Land over Ageless Era, featuring 10 factions"
-type="map_pack"
-passphrase="haowandemima"
-email="Ebonnov@gmail.com"
-dependencies=Ageless_Era,A_New_Land
