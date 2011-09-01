@@ -99,10 +99,11 @@ Farms: 2g
 Mines: 2g
 
 [b]Khalifate[/b]
-Worker: ??? (?g)
+Worker: Khalifette (8g)
 Scholar: Hakim (18g)
-Diplomacy: ???
+Diplomacy: Human, Drakes
 + Can build villages in sand
++ Can build castles in sand
 
 Farms: 3g
 Mines: 3g
