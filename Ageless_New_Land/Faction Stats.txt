@@ -114,6 +114,7 @@ Scholar: Mermaid Initiate
 Diplomacy: Human, Elf
 + Can build towns in water
 + Can build flooded castle; can flood castles; can build castles in water
++ Can build coral reefs
 + Can farm water lily
 - Merman are slow on land.
 - Cannot destroy castles, villages and bridges.
@@ -121,7 +122,34 @@ Diplomacy: Human, Elf
 Farms: 3g
 Mines: 2g
 
+[b]Naga[/b]
+Worker: Young Naga
+Scholar: ??
+Diplomacy: Saurians, Outlaws, Orcs
++ Can build towns in water
++ Can build flooded castle; can flood castles; can build castles in water
++ Can farm water lily
+- Nagas are slow on land.
 
+[b]Brungar[/b]
+Worker: Undecided Student
+Scholar: ???
++ Can build towns in water
++ Can build flooded castle; can flood castles; can build castles in water
++ Can dig caves and build villages in caves.
++ Can build mines for 20gp, 5gp cheaper than other factions.
+- Can only build dwarvish villages for 20gp, 5gp more expensive than other factions.
+- Cannot build its scholar at the beginning.
+
+* Can build University from dwarvish villages for 3gp, which results in 23gp for University. Can also build University from human village, but other factions cannot build University from dwarvish village.
+
+[b]Trolls[/b]
+Worker: Troll
+Scholar: Troll Shaman
++ Can dig caves and build cave villages.
++ Can build Troll Whelp at the beginning.
+- Cannot donate funds.
+- No warfare choices and diplomacy speed is awful
 
 
 

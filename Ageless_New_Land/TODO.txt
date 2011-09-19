@@ -1,0 +1,6 @@
+Add races for fun.
+Chaos:
+	Change the functionality of corruption.
+
+Documentation:
+	Update documentation to reflect the current development status.
