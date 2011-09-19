@@ -1,0 +1,64 @@
+Loyalist / Large
+	4 Elves
+	4 Mermen
+Outlaw / Medium
+	5 Dwarves
+	5 Nagas
+Orc / Medium
+	2 Trolls
+	3 Sea Orc
+	4 Bats
+	4 Nagas
+	4 Saurian
+Undead / Large
+	3 Bats
+	4 Chaos
+	4 Monster
+Elves / Large
+	4 Mermen
+	5 Loyalists
+Drakes / Large
+	4 Saurian
+	5 Khalifate
+Saurians / Medium
+	4 Outlaw *
+	4 Naga *
+	6 Orcs *
+	8 Drakes *
+	* Tribute diplomacy: 10 gp, gain +2 diplomacy this turn.
+Dwarves / Large
+	4 Outlaw
+	4 Human
+Issaelfr / Large
+	4 Marauders
+	4 Snow Themed (Yeti)
+Chaos / Large
+	5 Undead W/O dark adept
+	5 Monster
+	6 Alliance of Oppotunism *
+	* Has a random ally
+		Outlaw, Orcs, Dark adept, Saurian, Naga, Trolls.
+Khalifate / Large
+	4 Drake
+	4 Loyalists
++Mermen / Medium
+	4 Loyalists
+	4 Elves
++Naga / Medium
+	4 Saurians
+	4 Outlaws
+	5 Orcs
++Brungar / Large
+	4 Dwarves
+	4 Water Themed (??)
++Trolls / Small
+	5 Orcs
+	5 Outlaws
+	5 Nagas
++Eventide / Large
+	4 Loyalists
+		+1 @ Loyalists
+		-1 @ Outlaws / MIN 2
+	4 Outlaws
+		+1 @ Outlaws
+		-1 @ Loyalists / MIN 2
