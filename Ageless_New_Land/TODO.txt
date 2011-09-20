@@ -6,6 +6,6 @@ Documentation:
 	Update documentation to reflect the current development status.
 
 Balance Concerns:
-	Dwarf scholar: change to Thunderer? 
+	Dwarf scholar: change to Thunderer? or the whatever thing you can meet in the campaign?
 	Orc: Orcish Grunt recruitable at the beginning? 
 		// DONE 
