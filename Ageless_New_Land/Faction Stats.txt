@@ -21,7 +21,6 @@ Mines: 2g
 [b]Orcs[/b]
 Worker: Goblin Spearman (8g)
 Scholar: Orcish Shaman (18g)
-	# Change to Orcish Archer?? Troll Shaman??
 + Can dig caves and build cave villages.
 + Warfare research target is 1 point lower.
 - Cannot donate funds.
@@ -143,13 +142,7 @@ Scholar: ???
 
 * Can build University from dwarvish villages for 3gp, which results in 23gp for University. Can also build University from human village, but other factions cannot build University from dwarvish village.
 
-[b]Trolls[/b]
-Worker: Troll
-Scholar: Troll Shaman
-+ Can dig caves and build cave villages.
-+ Can build Troll Whelp at the beginning.
-- Cannot donate funds.
-- No warfare choices and diplomacy speed is awful
+
 
 
 
