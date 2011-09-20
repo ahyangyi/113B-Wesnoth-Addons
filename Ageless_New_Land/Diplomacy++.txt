@@ -1,21 +1,20 @@
 Loyalist / Large
 	4 Elves
-	4 Mermen
+	4 Merfolk
 Outlaw / Medium
 	5 Dwarves
 	5 Nagas
 Orc / Medium
 	2 Trolls
-	3 Sea Orc
-	4 Bats
 	4 Nagas
 	4 Saurian
 Undead / Large
-	3 Bats
+	2 Bats
 	4 Chaos
 	4 Monster
 Elves / Large
-	4 Mermen
+	2 Woses
+	5 Merfolk
 	5 Loyalists
 Drakes / Large
 	4 Saurian
@@ -41,7 +40,7 @@ Chaos / Large
 Khalifate / Large
 	4 Drake
 	4 Loyalists
-+Mermen / Medium
++Merfolk / Medium
 	4 Loyalists
 	4 Elves
 +Naga / Medium

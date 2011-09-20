@@ -4,3 +4,6 @@ Chaos:
 
 Documentation:
 	Update documentation to reflect the current development status.
+
+Bug:
+	Saurian Diplomacy Image
