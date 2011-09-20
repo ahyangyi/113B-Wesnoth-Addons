@@ -7,7 +7,7 @@ Outlaw / Medium
 Orc / Medium
 	2 Troll
 	4 Nagas [3]
-	4 Saurian [2->4?]
+	4 Saurian
 Undead / Large
 	4 Chaos
 	4 Monster
@@ -29,7 +29,7 @@ Dwarves / Large
 	4 Human
 Issaelfr / Large
 	4 Marauders
-	4 Snow Themed (Yeti)
+	4 Snow Native (Yeti)
 Chaos / Large
 	5 Undead W/O dark adept
 	5 Monster
@@ -48,7 +48,7 @@ Khalifate / Large
 	5 Orcs
 +Brungar / Large
 	4 Dwarves
-	4 Water Themed (??)
+	4 Water Native
 +Eventide / Large
 	4 Loyalists
 		+1 @ Loyalists

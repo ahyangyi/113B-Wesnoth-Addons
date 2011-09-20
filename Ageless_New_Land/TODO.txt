@@ -1,9 +1,11 @@
 Feature:
 	Saurian's Tribute Diplomacy 
+		// DONE
 
 Documentation:
 	Update documentation to reflect the current development status.
 
 Balance Concerns:
 	Dwarf scholar: change to Thunderer? 
-	Orc: Orcish Grunt recruitable at the beginning?
+	Orc: Orcish Grunt recruitable at the beginning? 
+		// DONE 
