@@ -5,7 +5,7 @@ Outlaw / Medium
 	5 Dwarves
 	5 Nagas
 Orc / Medium
-	2 Trolls
+	2 Troll ???
 	4 Nagas
 	4 Saurian
 Undead / Large
@@ -47,13 +47,10 @@ Khalifate / Large
 	4 Saurians
 	4 Outlaws
 	5 Orcs
++Troll ???
 +Brungar / Large
 	4 Dwarves
 	4 Water Themed (??)
-+Trolls / Small
-	5 Orcs
-	5 Outlaws
-	5 Nagas
 +Eventide / Large
 	4 Loyalists
 		+1 @ Loyalists
