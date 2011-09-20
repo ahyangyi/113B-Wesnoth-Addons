@@ -1,8 +1,9 @@
-Add races for fun.
+Feature:
+	Saurian's Tribute Diplomacy 
 
 Documentation:
 	Update documentation to reflect the current development status.
 
 Balance Concerns:
 	Dwarf scholar: change to Thunderer? 
-	Are orcs too weak?
+	Orc: Orcish Grunt recruitable at the beginning?
