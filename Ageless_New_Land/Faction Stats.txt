@@ -107,6 +107,13 @@ Diplomacy: Human, Drakes
 Farms: 3g
 Mines: 3g
 
+[b]Eventide[/b]
+Worker: Eventide Neutral (??)
+Scholar: Eventide Herbalist (18g)
+Diplomacy: Human, Outlaw
++ Can both farm crops and mushroom
+* Diplomacy Balance
+
 [b]Mermen[/b]
 Worker: ??? (?g)
 Scholar: Mermaid Initiate
