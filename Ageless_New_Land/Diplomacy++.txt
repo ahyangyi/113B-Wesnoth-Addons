@@ -33,7 +33,7 @@ Issaelfr / Large
 Chaos / Large
 	5 Undead W/O dark adept
 	5 Monster
-	6 Alliance of Oppotunism *
+	6 Alliance of Opportunism *
 	* Has a random ally
 		Outlaw, Orcs, Dark adept, Saurian, Naga, Trolls.
 Khalifate / Large
