@@ -12,7 +12,7 @@ Undead / Large
 	4 Chaos
 	4 Monster
 Elves / Large
-	2 Woses [2]
+	4 Woses [1]
 	5 Merfolk [2]
 	5 Loyalists
 Drakes / Large
