@@ -78,7 +78,6 @@ Mines: 3g
 [b]Dwarves[/b]
 Worker: Digger (8g)
 Scholar: Runeadept (18g)
-	# Change it to… ?
 + Can dig caves and build villages in caves.
 + Can build mines for 20gp, 5gp cheaper than other factions.
 - Can only build dwarvish villages for 20gp, 5gp more expensive than other factions.
@@ -137,6 +136,9 @@ Diplomacy: Saurians, Outlaws, Orcs
 + Can farm water lily
 - Nagas are slow on land.
 
+Farms: 2g
+Mines: 1g
+
 [b]Brungar[/b]
 Worker: Undecided Student
 Scholar: ???
@@ -149,7 +151,18 @@ Scholar: ???
 
 * Can build University from dwarvish villages for 3gp, which results in 23gp for University. Can also build University from human village, but other factions cannot build University from dwarvish village.
 
+Farms: 1g
+Mines: 4g
 
+
+[b]Infernai[/b]
+Worker: Imp (6g)
+Scholar: Ifreet (22g)
+Diplomacy: Chaos, Undead?
++ Can dig caves and build cave villages.
+- Negotiations take 1 turn longer.
+Farms: 2g
+Mines: 3g
 
 
 
