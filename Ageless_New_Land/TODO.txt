@@ -1,6 +1,5 @@
-Feature:
-	Saurian's Tribute Diplomacy 
-		// DONE
+Fix:
+	Many picture links are changed.
 
 Documentation:
 	Update documentation to reflect the current development status.
