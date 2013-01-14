@@ -1,0 +1,44 @@
+0. Illuminates
+1. Heals + Cures
+2. Regenerates
+3. Poison
+4. Add melee magical
+5. Skirmisher
+6. Leadership
+7. melee ARCANE
+8. Melee drain (blood ring)
+9. Teleports
+10. Add melee plague
+11. melee FIRE
+12. Resis + Steadfast
+13. Ranged Marksman
+14. WATER
+15. Melee Backstab
+16. Chaotic + exp-50%
+17. Improve Flight (+2 mov for flying ones)
+18. Storm Trident (ranged magical fire)
+19. Radiance (ranged magical arcane)
+20. Frostbite (melee cold and slows, -dmg)
+21. Snow movement + cold resistance
+22. Feeding
+23. Nightstalk + mov
+24. berserk + arcane weekness
+
+YY's implementations:
+25. Resis + Counter (Windsong Gatekeeper)
+26. Deluminates (Eventide)
+27. Boots of Salamander Hide
+: Sandwalking
+: gives fire 5-4 ranged
+: rF - 40%
+: rC + 50%
+
+YY's proposals:
+29. The Guardian Orb of Seiryuu
+   Improved Defense
+30. The Guardian Orb of Byakko
+   Improved Hitpoints
+31. The Guardian Orb of Suzaku
+   Improved Counter-Damage
+32. The Guardian Orb of Genbu
+   Improved Resistance

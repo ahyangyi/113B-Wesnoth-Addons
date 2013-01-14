@@ -1,0 +1,18 @@
+melee dmg  13% - strong
+ranged dmg 13% - dextrous
+hp         10% - resilient
+speed        1 - quick
+xp lmt     25% - intelligient
+woodsman   AMB forest 1,10,70
+               - ??!!
+
+issaelfr   flat,snow 1,10,50, cold 1,10,+20%
+swimming   SUB water 1,10,40
+eventidism NEUTRAL
+
+Sea Dwarves: ???
+Aragwathi: ???
+Enlightened: ???
+Windsong: ???
+Fiends: ???
+Kalifa: ???

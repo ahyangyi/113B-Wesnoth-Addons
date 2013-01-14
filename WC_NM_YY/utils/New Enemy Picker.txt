@@ -1,0 +1,15 @@
+Old:
+
+uses: -5
+ally: -2
+occur: -8
+pick the highest each time
+
+New (Scaled 3x):
+
+uses: -15
+ally: -5
+hate: +5
+occur: -25
+occurred as ally: -10
+random noise: 4d4 (4~16, avg = 10)
