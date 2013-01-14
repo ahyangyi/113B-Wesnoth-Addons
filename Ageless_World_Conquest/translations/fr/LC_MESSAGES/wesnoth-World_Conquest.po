@@ -1,0 +1,1081 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fr\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-09-27 11:55-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dominic Ringuet <d.ringuet@gmail.com>\n"
+"Language-Team: None\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+
+#. [multiplayer]: id=TL_WC_NM_Cave5
+#. [multiplayer]: id=TL_WC_NM_Sea5
+#: scenarios/WC_Cave5.cfg:5
+#: scenarios/WC_Sea5.cfg:5
+#, fuzzy
+msgid "MP campaign - WC_NM 5"
+msgstr "Campagne multijoueur"
+
+#. [multiplayer]: id=TL_WC_NM_Cave5
+#. [multiplayer]: id=TL_WC_NM_Desert3
+#. [multiplayer]: id=TL_WC_NM_Frozen3
+#. [multiplayer]: id=TL_WC_NM_Island2
+#. [multiplayer]: id=TL_WC_NM_Island4
+#. [multiplayer]: id=TL_WC_NM_Island6
+#. [multiplayer]: id=TL_WC_NM_Jungle3
+#. [multiplayer]: id=TL_WC_NM_Sea5
+#: scenarios/WC_Cave5.cfg:7
+#: scenarios/WC_Desert3.cfg:7
+#: scenarios/WC_Frozen3.cfg:7
+#: scenarios/WC_Island2.cfg:7
+#: scenarios/WC_Island4.cfg:7
+#: scenarios/WC_Island6.cfg:7
+#: scenarios/WC_Jungle3.cfg:7
+#: scenarios/WC_Sea5.cfg:7
+msgid "A randomly generated campaign for 1-3 players."
+msgstr "Une campagne aléatoire pour 1-3 joueurs."
+
+#. [message]
+#: scenarios/WC_Cave5.cfg:60
+msgid "So it exists! Somewhere in this subterranean realm we may find passage to lands beyond."
+msgstr "Donc ça existe! Quelque pars dans ce sous-terrain, nous trouverons le passage vers des royaumes lointains."
+
+#. [message]
+#: scenarios/WC_Cave5.cfg:65
+msgid "Heh heh heh. You find only death here, strange folk!"
+msgstr "Heh heh heh. Vous ne trouverez que la mort ici, étranges gens!"
+
+#. [message]
+#: scenarios/WC_Cave5.cfg:70
+msgid "Wha's this? Surface folk trespassing on our territory?"
+msgstr "Mais qu'est-ce que cette folie? Des gens de la surface sur nos territoires?"
+
+#. [message]
+#: scenarios/WC_Cave5.cfg:75
+msgid "You mean OUR territory, puny fools!"
+msgstr "Vous parlez ici de NOS territoires, pauvres insolents!"
+
+#. [message]
+#: scenarios/WC_Cave5.cfg:80
+msgid "Fight amongst yourselves if you will; it only makes your inevitable defeat that much faster. We will repel these intruders by ourselves!"
+msgstr "Combattez entres vous si vous voulez; ça ne fera que rendre votre inévitable défaite plus rapide. Nous repousserons ces intrus par nous-même!"
+
+#. [message]: role=hero
+#: scenarios/WC_Cave5.cfg:85
+msgid "Not if we have anything to say about it. These strangers will lead us back to freedom upon the surface world!"
+msgstr "Pas si nous avons notre mot à dire. Ces étrangers nous ramèneront à la liberté vers le monde de la surface!"
+
+#. [message]
+#: scenarios/WC_Cave5.cfg:90
+#: scenarios/WC_Sea5.cfg:89
+msgid "Very well, traitor. We will just have to crush you as well."
+msgstr "Très bien, traîtres. Nous n'auront qu'à vous écraser par la même occasion."
+
+#. [multiplayer]: id=TL_WC_NM_Desert3
+#. [multiplayer]: id=TL_WC_NM_Frozen3
+#. [multiplayer]: id=TL_WC_NM_Jungle3
+#: scenarios/WC_Desert3.cfg:5
+#: scenarios/WC_Frozen3.cfg:5
+#: scenarios/WC_Jungle3.cfg:5
+#, fuzzy
+msgid "MP campaign - WC_NM 3"
+msgstr "Campagne multijoueur"
+
+#. [message]
+#: scenarios/WC_Desert3.cfg:55
+msgid "Look here--fresh meat arrives upon our shores!"
+msgstr "Regardez ce que l'on a là; de la chaire fraîche débarquant sur nos berges!"
+
+#. [message]
+#: scenarios/WC_Desert3.cfg:60
+msgid "These newcomers are too many and too well-armed to make easy meat. Let them come to us; the desert will deal with them easily enough."
+msgstr "Ces nouveaux arrivés sont beaucoup trop et beaucoup trop armés pour être des proies facile. Laissez les venir à nous; le désert sera suffisant pour s'occuper d'eux facilement."
+
+#. [message]: role=hero
+#: scenarios/WC_Desert3.cfg:65
+msgid "Why should we hide like cornered rats? These strangers have great strength; we will join them and share in their victories!"
+msgstr "Pourquoi nous cacher comme des rats encerclés? Ces étrangers possèdent une force incroyable; joignons-nous à eux et partageons leurs victoires!"
+
+#. [message]
+#: scenarios/WC_Desert3.cfg:70
+msgid "Curse you! Your kind has plagued us long enough anyhow. We will just have to destroy you once and for all!"
+msgstr "Soyez maudits! Votre espèce s'est propagée suffisamment longtemps. Nous devons vous détruire une bonne fois pour toute!"
+
+#. [message]
+#: scenarios/WC_Frozen3.cfg:54
+msgid "Brrrrrr! This bitter cold is harsh indeed."
+msgstr "Brrrrrr! Ce froid perçant est effectivement insoutenable."
+
+#. [message]
+#: scenarios/WC_Frozen3.cfg:59
+msgid "Har, har! Can't take a little cold, can ye?"
+msgstr "Har, har! Vous ne pouvez pas prendre un peu de froid, n'est-ce pas?"
+
+#. [message]
+#: scenarios/WC_Frozen3.cfg:64
+msgid "We hardly need to break out our weapons for this one, boys. We'll just sit back and let them freeze to death!"
+msgstr "Nous n'avons pas vraiment besoin de sortir nos armes pour eux, camarades. Nous n'avons qu'à nous asseoir et les laisser geler jusqu'à la mort!"
+
+#. [message]: role=hero
+#: scenarios/WC_Frozen3.cfg:69
+msgid "Don't worry, we'll show you how to survive in the highlands."
+msgstr "Ne vous inquiétez pas, nous vous montrerons comment survivre aux haute-terres."
+
+#. [message]
+#: scenarios/WC_Frozen3.cfg:74
+msgid "Gah, you fools. If you will side with these strangers you will perish alongside them. Die!"
+msgstr "Gah, imbéciles. Si vous vous alliez à ces étrangers, vous périrez à leurs côtés. Crevez!"
+
+#. [multiplayer]: id=TL_WC_NM_Island2
+#: scenarios/WC_Island2.cfg:5
+#, fuzzy
+msgid "MP campaign - WC_NM 2"
+msgstr "Campagne multijoueur"
+
+#. [message]
+#: scenarios/WC_Island2.cfg:51
+msgid "Ahhh. Just look at these fertile lands, ripe for conquest!"
+msgstr "Ahhh. Regardez-moi donc ces terres fertiles, prêtes pour la conquête!"
+
+#. [message]
+#: scenarios/WC_Island2.cfg:56
+msgid "What's this?! Foreign invaders have set foot upon our shores!"
+msgstr "Mais qu'est-ce que cela? Des envahisseurs lointains ont mi pied sur nos berges!"
+
+#. [message]
+#: scenarios/WC_Island2.cfg:61
+msgid "We'll send them back to where they came from quick enough. All troops, to me!"
+msgstr "Nous les renverrons d'où ils viennent assez rapidement. Tout le monde avec moi!"
+
+#. [multiplayer]: id=TL_WC_NM_Island4
+#: scenarios/WC_Island4.cfg:5
+#, fuzzy
+msgid "MP campaign - WC_NM 4"
+msgstr "Campagne multijoueur"
+
+#. [message]
+#: scenarios/WC_Island4.cfg:55
+msgid "Ready yourselves, men! The conquering hordes are upon us!"
+msgstr "Préparez-vous citoyens! Les hordes conquérantes sont sur nous!"
+
+#. [message]
+#: scenarios/WC_Island4.cfg:60
+msgid "Word has come to our island of your victories. Your army is impressive, but it will avail you not."
+msgstr "Les rumeurs de vos victoires sont parvenue jusqu'à notre île. Votre armée est impressionnante, mais elle ne vous réussira pas."
+
+#. [message]
+#: scenarios/WC_Island4.cfg:65
+msgid "Indeed. You come this far, and no farther!"
+msgstr "Effectivement. Si vous êtes arrivé jusqu'ici, vous n'irez pas plus loin."
+
+#. [message]
+#: scenarios/WC_Island4.cfg:70
+msgid "Hah! We didn't come all this way just to give up and go home. We will destroy you as we have destroyed all that have stood before us!"
+msgstr "Hah! Nous n'avons pas fait tout ce chemin juste pour abandonner et retourner à la maison. Nous vous détruirons comme nous avons détruit tout ce qui se tenait devant nous!"
+
+#. [message]
+#: scenarios/WC_Island4.cfg:75
+msgid "So be it. We stand squarely behind our allies."
+msgstr "Ainsi soit-il. Nous nous tenons fermement derrière nos alliés."
+
+#. [message]
+#: scenarios/WC_Island4.cfg:80
+msgid "You are not the only ones with allies! We'll push on till the end!"
+msgstr "Vous n'êtes pas les seuls avec des alliés! Nous pousserons jusqu'à la fin!"
+
+#. [multiplayer]: id=TL_WC_NM_Island6
+#: scenarios/WC_Island6.cfg:5
+#, fuzzy
+msgid "MP campaign - WC_NM 6"
+msgstr "Campagne multijoueur"
+
+#. [message]
+#: scenarios/WC_Island6.cfg:57
+msgid "Finally we come to the shores of the last continent. Here at the edge of the world our empire shall be made complete."
+msgstr "Finalement nous arrivons à la côte du dernier continent. C'est ici aux confins du monde que notre empire sera complet."
+
+#. [message]
+#: scenarios/WC_Island6.cfg:62
+msgid "Never! Your mad quest ends here, tyrant."
+msgstr "Jamais! Votre quête folle s'arrête ici, tyran."
+
+#. [message]
+#: scenarios/WC_Island6.cfg:67
+msgid "All the peoples of the world stand against you. Though we would be enemies otherwise, we are united in our cause. We must stop you!"
+msgstr "Tout les gens du monde se tiennent contre vous. Même si nous serions des ennemis habituellement, nous sommes unis dans notre cause. Nous devons vous arrêter!"
+
+#. [message]
+#: scenarios/WC_Island6.cfg:72
+msgid "No, not all of them. Today our full strength stands behind our allies!"
+msgstr "Non, pas tout le monde. Aujourd'hui notre pleine force se tien derrière nos alliés!"
+
+#. [message]
+#: scenarios/WC_Jungle3.cfg:56
+msgid "What's this? It is a long time since strangers have set foot upon Moragdu--and in such great numbers too!"
+msgstr "Qu'est-ce que c'est que ça? Il y a si longtemps que des étrangers n'ont mi pied sur Moragdu; et en si grand nombre d'ailleurs!"
+
+#. [message]
+#: scenarios/WC_Jungle3.cfg:61
+msgid "The time of prophecies is upon us! The destroyers have arrived from beyond the sea!"
+msgstr "Le temps des prophéties se réalise! Les destructeurs sont arrivé d'au-delà des océans! "
+
+#. [message]
+#: scenarios/WC_Jungle3.cfg:66
+msgid "I don't know what the lizard is babbling about, but we'll sort these 'destroyers' out quickly enough."
+msgstr "Je ne sais pas de quoi parle le lézard, mais nous en finirons rapidement avec ces 'destructeurs'."
+
+#. [message]: role=hero
+#: scenarios/WC_Jungle3.cfg:71
+msgid "The prophecies are misplaced. Clearly we are meant to join with these newcomers."
+msgstr "Les prophéties sont mal interprétées. Nous devons clairement nous joindre à ces nouveaux venus."
+
+#. [message]
+#: scenarios/WC_Jungle3.cfg:76
+msgid "Fools! You will pay for your treachery!"
+msgstr "Imbéciles! Vous payerez pour votre félonie!"
+
+#. [message]
+#: scenarios/WC_Sea5.cfg:59
+msgid "These islands are not on any of our charts! What is this place?"
+msgstr "Ces îles ne sont sur aucune de nos cartes! Quel est donc cet endroit?"
+
+#. [message]
+#: scenarios/WC_Sea5.cfg:64
+msgid "We do not know where you came from, strange men from beyond the seas, but these islands belong to us. Leave at once! "
+msgstr "Nous ne savons d'où vous venez, étrangers d'au-delà les océans, mais ces îles nous appartiennent. Quittez une bonne fois pour toute!"
+
+#. [message]
+#: scenarios/WC_Sea5.cfg:69
+msgid "You should speak for yourselves. Too long have you polluted these sacred waters with your presence."
+msgstr "Vous devez parler pour vous-même. Vous avez pollué ces eaux sacrées trop longtemps par votre présence."
+
+#. [message]
+#: scenarios/WC_Sea5.cfg:74
+msgid "Squabble among yourselves if you will. With the aid of these foreigners we can take the islands for ourselves!"
+msgstr "Obstinez-vous si vous le souhaitez. Avec l'aide de ces nouveaux arrivés nous pouvons prendre les îles pour nous-même!"
+
+#. [message]
+#: scenarios/WC_Sea5.cfg:79
+msgid "Fool! You will receive neither aid nor mercy from these invaders. They will subjugate you like all the rest. Only by standing together can we defeat the invaders!"
+msgstr "Idiot! Vous ne recevrez ni aide ni pitié de ces envahisseurs. Ils vont vous subjuguer comme tout le reste. Ce n'est qu'en unissant nos forces que nous pouvons vaincre l'envahisseur."
+
+#. [message]: role=hero
+#: scenarios/WC_Sea5.cfg:84
+msgid "Speak for yourselves. We'll take our chances alongside these newcomers!"
+msgstr "Parlez pour vous-même. Nous prendrons notre chance du coté de ces nouveaux venus!"
+
+#. [multiplayer]: id=World_Conquest_TL
+#: scenarios/WC_Start.cfg:4
+msgid "3p — World Conquest"
+msgstr "3p — Domination Mondiale"
+
+#. [multiplayer]: id=World_Conquest_TL
+#: scenarios/WC_Start.cfg:6
+msgid ""
+"A randomly generated cooperative multiplayer campaign for 1-3 players.\n"
+"It has 6 scenarios and 4 level of difficulties whereas Nightmare is supposedly unbeatable."
+msgstr ""
+"Une campagne coopérative générée aléatoirement pour 1-3 joueurs.\n"
+"Il y a 6 scénarios ainsi que 4 niveaux de difficulté où \"Cauchemar\" est supposément imbattable."
+
+#. [scenario]: id=World_Conquest_Start
+#: scenarios/WC_Start.cfg:13
+msgid "World Conquest"
+msgstr "Domination Mondiale"
+
+#. [side]: id=WCp{PLAYER}
+#. [side]: id=WCp{SIDE}, type=Galleon
+#: scenarios/WC_Start.cfg:32
+#: utils/scenario.cfg:130
+#, fuzzy
+msgid "Allies"
+msgstr "Alliés"
+
+#. [message]: speaker=unit
+#: utils/bonus.cfg:285
+#, fuzzy
+msgid "Someone is here!"
+msgstr "Halte ! Qui va là ?"
+
+#. [message]: speaker=unit
+#: utils/bonus.cfg:311
+msgid "Excellent. We could always use more help."
+msgstr "Excellent, nous pouvons toujours utiliser plus d'aide."
+
+#. [message]: speaker=unit
+#: utils/bonus.cfg:344
+msgid "Hey, I found some treasure!"
+msgstr "Hé, j'ai trouvé quelques trésors!"
+
+#. [option]: ("&"+$artifact[$group[$player[$I|].group|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].group|].artifact[$J|].type|].name|+, +$artifact[$group[$player[$I|].group|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].group|].artifact[$J|].type|].name|+, ("&"+$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].name|+, +$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].name|+
+#: utils/invest.cfg:190
+msgid "&"
+msgstr "&"
+
+#. [option]: ("&"+$artifact[$group[$player[$I|].group|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].group|].artifact[$J|].type|].name|+, +$artifact[$group[$player[$I|].group|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].group|].artifact[$J|].type|].name|+, ("&"+$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].name|+, +$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].icon|+"=+$artifact[$group[$player[$I|].ally[$K|]|].artifact[$J|].type|].name|+
+#: utils/invest.cfg:209
+msgid "&misc/red-x.png~SCALE(48,24)=Nevermind."
+msgstr "&misc/red-x.png~SCALE(48,24)=Nevermind."
+
+#. [message]: speaker=unit
+#: utils/invest.cfg:242
+msgid "I am here to serve, my liege. How shall we allocate our resources? (Pick two.)"
+msgstr "Je suis ici pour servir, mon liège. Comment devons-nous allouer nos ressources? (Choisissez-en deux.)"
+
+#. [option]: speaker=unit
+#: utils/invest.cfg:245
+msgid "Cultivate new recruits"
+msgstr "Cultiver de nouvelles recrues"
+
+#. [message]: speaker=narrator
+#: utils/invest.cfg:255
+msgid "What unit should we train? (This unit will be added to your recruit list for this and all future scenarios.)"
+msgstr "Quel unité devons-nous entraîner? (Cette unité sera ajoutée à votre liste de recrutement pour celui-ci et tout les scénarios futurs.)"
+
+#. [option]: speaker=unit
+#: utils/invest.cfg:294
+msgid "Persuade a great hero to join our cause"
+msgstr "Persuader un grand héros de joindre votre cause"
+
+#. [message]: speaker=narrator
+#: utils/invest.cfg:304
+msgid "What sort of hero shall we recruit? (This unit will be loyal and have extra trait strength.)"
+msgstr "Quelle sorte de héros devons-nous recruter? (Cette unité sera loyale et aurait le trait héroïque.)"
+
+#. [option]: speaker=unit
+#: utils/invest.cfg:347
+msgid "Invest in training for our recruits"
+msgstr "Investir dans l'entraînement de nos recrues"
+
+#. [message]: speaker=unit
+#: utils/invest.cfg:362
+msgid "What training should we provide? (All units newly recruited this scenario gain the selected benefit.)"
+msgstr "Quel entraînement devons-nous fournir? (Toute les unités nouvellement recrutées durant ce scénario gagnent le bénéfice sélectionné.)"
+
+#. [option]: speaker=unit
+#: utils/invest.cfg:412
+msgid "Commission a magic item"
+msgstr "Commissionner un objet magique"
+
+#. [message]: speaker=narrator
+#: utils/invest.cfg:423
+msgid "What manner of artifact should we pursue? (This item will spawn in an adjacent hex, ready to be picked up by one of your units)"
+msgstr "Quel espèce d'objets magique devons nous rechercher? (Cet item va apparaître sur un hex adjacent, prêt à prendre par l'une de vos unités)"
+
+#. [option]: speaker=unit
+#: utils/invest.cfg:465
+msgid "Raise funds (Gain 60 gold.)"
+msgstr "Levée de fonds (Gagnez 60 pièces d'or)"
+
+#. [message]: speaker=narrator
+#: utils/recruit.cfg:53
+#, fuzzy
+msgid "Choose difficulty level:"
+msgstr "Choisir le niveau de difficulté"
+
+#. [option]: speaker=narrator
+#: utils/recruit.cfg:55
+msgid "&units/human-peasants/peasant.png~RC(magenta>red)="
+msgstr "&units/human-peasants/peasant.png~RC(magenta>red)="
+
+#. [print]
+#: utils/recruit.cfg:59
+msgid "Difficulty: Peasant"
+msgstr "Paysan"
+
+#. [option]: speaker=narrator
+#: utils/recruit.cfg:67
+msgid "&units/human-loyalists/sergeant.png~RC(magenta>red)="
+msgstr "&units/human-loyalists/sergeant.png~RC(magenta>red)="
+
+#. [print]
+#: utils/recruit.cfg:71
+msgid "Difficulty: Sergeant"
+msgstr "Sergent"
+
+#. [option]: speaker=narrator
+#: utils/recruit.cfg:78
+msgid "&units/human-loyalists/lieutenant.png~RC(magenta>red)="
+msgstr "&units/human-loyalists/lieutenant.png~RC(magenta>red)="
+
+#. [print]
+#: utils/recruit.cfg:82
+msgid "Difficulty: Lieutnant"
+msgstr "Lieutenant"
+
+#. [option]: speaker=narrator
+#: utils/recruit.cfg:89
+msgid "&units/human-loyalists/general.png~RC(magenta>red)="
+msgstr "&units/human-loyalists/general.png~RC(magenta>red)="
+
+#. [print]
+#: utils/recruit.cfg:93
+msgid "Difficulty: General"
+msgstr "Général"
+
+#. [option]: speaker=narrator
+#: utils/recruit.cfg:101
+msgid "&units/drakes/inferno.png~RC(magenta>red)=<span size='medium' color='red'>Nightmare!!!</span>= "
+msgstr "&units/drakes/inferno.png~RC(magenta>red)=<span size='medium' color='red'>Cauchemard!!!</span>= "
+
+#. [print]
+#: utils/recruit.cfg:114
+msgid "Difficulty: Nightmare"
+msgstr "Cauchemard"
+
+#. [objectives]
+#: utils/scenario.cfg:98
+msgid "<span color='red'>Nightmare mod</span>"
+msgstr "<span color='red'>mod Cauchemard</span>"
+
+#. [objective]: condition=win
+#: utils/scenario.cfg:100
+#, fuzzy
+msgid "Defeat all enemy leaders"
+msgstr "Vaincre tous les chefs ennemis"
+
+#. [objective]: condition=lose
+#: utils/scenario.cfg:104
+msgid "Time runs out"
+msgstr "Temps écoulé"
+
+#. [objective]: condition=lose
+#: utils/scenario.cfg:108
+msgid "Lose your leader and all your heroes"
+msgstr "Perdez votre chef et tout vos héros"
+
+#. [side]: type=Peasant
+#: utils/scenario.cfg:151
+msgid "teamname^Enemies"
+msgstr "Ennemis"
+
+#. [message]
+#: utils/scenario.cfg:193
+msgid "No! This is the end!"
+msgstr "Non! C'est la fin!"
+
+#. [message]
+#: utils/scenario.cfg:393
+#: utils/scenario.cfg:410
+msgid "To war! Prepare to defend yourselves!"
+msgstr "À la guerre! Préparez-vous à vous défendre!"
+
+#. [message]
+#: utils/scenario.cfg:398
+msgid "Why do we fight amongst ourselves? We should band together and take the coast with our combined forces!"
+msgstr "Pourquoi se combattre entre nous? Nous devrions nous unir et prendre la côte avec nos forces combinées!"
+
+#. [message]
+#: utils/scenario.cfg:403
+msgid "You speak truly; together we can overpower the rest. After that, who knows? Together we could go on to conquer other lands across the sea!"
+msgstr "Là tu parles; ensemble nous pouvons maîtriser le reste. Après ça, qui sait? Ensemble nous pourrions conquérir d'autres terres par delà la mer!"
+
+#. [message]
+#: utils/scenario.cfg:417
+msgid "Foolish upstarts. You will never defeat us! Come, my allies. Let us crush them!"
+msgstr "Imbéciles parvenus. Vous ne nous battrez jamais! Venez mes alliés; écrasons-les!"
+
+#. [message]
+#: utils/scenario.cfg:422
+msgid "Yes! We will drive them into the sea!"
+msgstr "Oui! Nous les jetterons à l'océan!"
+
+#. [message]
+#: utils/scenario.cfg:427
+msgid "Never fear! Your trusted friends stand beside you!"
+msgstr "N'ayez crainte! Vos amis fiables se tiennent à vos cotés!"
+
+#. [trait]: id=heroic
+#: utils/variables.cfg:23
+msgid "heroic"
+msgstr "héroïque"
+
+#. [trait]: id=heroic
+#: utils/variables.cfg:24
+msgid "female^heroic"
+msgstr "héroique"
+
+#. [trait]: id=expert
+#: utils/variables.cfg:56
+msgid "expert"
+msgstr "expert"
+
+#. [trait]: id=expert
+#: utils/variables.cfg:57
+msgid "female^expert"
+msgstr "experte"
+
+#. [recruit]: type=Orcish Grunt
+#: utils/variables.cfg:260
+msgid "'bout time. Been forever since I had a good fight, eh?"
+msgstr ""
+
+#. [recruit]: type=Orcish Archer
+#: utils/variables.cfg:265
+msgid "My clan was destroyed long ago, leaving me to fend for myself. Let me join your army and I will fight as though your clan was my own!"
+msgstr ""
+
+#. [recruit]: type=Wolf Rider
+#: utils/variables.cfg:270
+msgid "I hunts. I join you, I hunts good for you!"
+msgstr "Je chasse. Je me joins à toi, je chasse bien pour toi!"
+
+#. [recruit]: type=Orcish Assassin
+#: utils/variables.cfg:275
+msgid "Heya, boss. Looks like you've got some guys need killing."
+msgstr ""
+
+#. [recruit]: type=Troll Whelp
+#: utils/variables.cfg:280
+msgid "Who you? I help you smash!"
+msgstr "Qui toi? Aider toi, frapper méchants!"
+
+#. [recruit]: type=Naga Fighter
+#: utils/variables.cfg:285
+#: utils/variables.cfg:701
+msgid "I too have come a long way to this strange land. Perhaps we were destined to join blades here."
+msgstr ""
+
+#. [recruit]: type=Goblin Spearman
+#: utils/variables.cfg:290
+msgid "Ah, please no hurtings me! I helps you, see?"
+msgstr ""
+
+#. [recruit]: type=Orcish Leader
+#: utils/variables.cfg:295
+msgid "Heh, looks like you whelps might be getting in over your heads. Good thing I'm here now to win this fight for ya, huh?"
+msgstr ""
+
+#. [recruit]: type=Spearman
+#: utils/variables.cfg:382
+msgid "Ho there, friends! I am but a soldier of humble circumstances, yet long have I dreamed of joining great wars beyond our shores. Let me join your mission!"
+msgstr ""
+
+#. [recruit]: type=Bowman
+#: utils/variables.cfg:387
+msgid "Greetings, my lords. I have watched your battle from afar and yearn to join such a glorious campaign. I pledge myself to your service!"
+msgstr ""
+
+#. [recruit]: type=Cavalryman
+#: utils/variables.cfg:392
+msgid "You're not from around here, but I seem to find myself between employers at the moment and I'm not picky. I'll fight for you, if you'll have me."
+msgstr ""
+
+#. [recruit]: type=Mage
+#: utils/variables.cfg:397
+#: utils/variables.cfg:522
+msgid "Long have I studied the ways of lore, and I have much wisdom to offer. Allow me to guide you on your quest and together we will accomplish great things!"
+msgstr ""
+
+#. [recruit]: type=Fencer
+#: utils/variables.cfg:402
+msgid "Looks like you're a bit down on your luck, my friends. But now that I am here, there's nothing to worry about!"
+msgstr ""
+
+#. [recruit]: type=Heavy Infantryman
+#: utils/variables.cfg:407
+msgid "Finally reinforcements are here! I've been pinned down for days. Help me fight my way out of here and I'll gladly follow you!"
+msgstr ""
+
+#. [recruit]: type=Merman Fighter
+#: utils/variables.cfg:412
+msgid "I bring greetings from the merfolk. We have heard your plight, and though we have few warriors to spare among us, I would gladly lend my trident to your cause."
+msgstr ""
+
+#. [recruit]: type=Horseman
+#: utils/variables.cfg:417
+msgid "Hurrah! Now THIS is a battle too grand to be missed. Save some for me, eh?"
+msgstr ""
+
+#. [recruit]: type=Elvish Fighter
+#: utils/variables.cfg:492
+msgid "Need a friendly blade?"
+msgstr "Besoin d'une lame amicale?"
+
+#. [recruit]: type=Elvish Scout
+#: utils/variables.cfg:497
+msgid "I offer you the service of my arrows and my steed. You will find none that fly faster than either."
+msgstr ""
+
+#. [recruit]: type=Elvish Archer
+#: utils/variables.cfg:502
+msgid "You guys look like you could use some help. Mind if I join in? It's been a while since I had a good fight!"
+msgstr ""
+
+#. [recruit]: type=Elvish Shaman
+#: utils/variables.cfg:507
+msgid "The mother forest sends you her blessings. Let us join together against her foes."
+msgstr ""
+
+#. [recruit]: type=Wose
+#: utils/variables.cfg:512
+msgid "Hmm! Welcome, tree-friends. We will pound our enemies into dust!"
+msgstr ""
+
+#. [recruit]: type=Merman Hunter
+#: utils/variables.cfg:517
+msgid "Greetings, friends. I am a lone hunter and have no legions of warriors to offer you, but I will gladly lend my arms to your cause."
+msgstr ""
+
+#. [recruit]: type=Mermaid Initiate
+#: utils/variables.cfg:527
+msgid "You have come a long way over the ocean, yet I see that you know little of her ways. Let me show you."
+msgstr ""
+
+#. [recruit]: type=Footpad
+#: utils/variables.cfg:578
+msgid "Hey, hey, easy there! I done nothin' to hurt you. We're all friends here, right? Looks like you might be in a tight spot, but don't worry. No one's better at getting out of tight spots than me, boss!"
+msgstr ""
+
+#. [recruit]: type=Dwarvish Thunderer
+#: utils/variables.cfg:583
+msgid "Listen up, ye primitive screwheads! This... is me BOOM STICK. Lemme show you what this baby can do!"
+msgstr ""
+
+#. [recruit]: type=Poacher
+#: utils/variables.cfg:588
+msgid "What, you want my help? A guy like me? Huh, that's rich. Oh well... let's give it a shot, eh?"
+msgstr ""
+
+#. [recruit]: type=Thief
+#: utils/variables.cfg:593
+msgid "You've got me, guv, it's a fair cop! Just lemme work for you instead. You won't regret it, guv, I promise!"
+msgstr ""
+
+#. [recruit]: type=Dwarvish Fighter
+#: utils/variables.cfg:598
+msgid "Having trouble, eh? Never worry, lads, we'll sort 'em out soon enough!"
+msgstr ""
+
+#. [recruit]: type=Dwarvish Guardsman
+#: utils/variables.cfg:603
+msgid "A soldier is no good without something to fight for. Let me fight for you!"
+msgstr ""
+
+#. [recruit]: type=Gryphon Rider
+#: utils/variables.cfg:608
+msgid "Need a hand? Me an' me bird can get just about anywheres you need."
+msgstr ""
+
+#. [recruit]: type=Dwarvish Ulfserker
+#: utils/variables.cfg:613
+msgid "Chin up, lads. Today is a good day to die!"
+msgstr ""
+
+#. [recruit]: type=Saurian Augur
+#: utils/variables.cfg:671
+msgid "You no fight good enough, no have saurian way. I show you way of saurian!"
+msgstr ""
+
+#. [recruit]: type=Drake Burner
+#: utils/variables.cfg:676
+msgid "Today is a most auspicious day for you, for I deem you worthy of the power of dragonfire. Show me your foes and I will incinerate them!"
+msgstr ""
+
+#. [recruit]: type=Drake Glider
+#: utils/variables.cfg:681
+msgid "You may be out to take over the land and the seas, but you'll never get anywhere without control of the skies. Fortunately I'm here to help you!"
+msgstr ""
+
+#. [recruit]: type=Drake Fighter
+#: utils/variables.cfg:686
+msgid "The ancient spirits tell me my destiny lies with yours. My sword is at your command."
+msgstr ""
+
+#. [recruit]: type=Saurian Skirmisher
+#: utils/variables.cfg:691
+msgid "Tribe fall long time ago, now tribe lost. This last fight of tribe. I fight with you, make last very great!"
+msgstr ""
+
+#. [recruit]: type=Drake Clasher
+#: utils/variables.cfg:696
+msgid "Stand fast, for I bring you the strength of dragons to assist you in your battle!"
+msgstr ""
+
+#. [recruit]: type=Young Ogre
+#: utils/variables.cfg:706
+msgid "You friend are? I friend help!"
+msgstr "Toi être ami? Moi aider ami!"
+
+#. [recruit]: type=Skeleton
+#: utils/variables.cfg:757
+msgid "Don't hit me! I'm just your average regular friendly talking skeleton, see? Looks like you fellows could use some help!"
+msgstr ""
+
+#. [recruit]: type=Skeleton Archer
+#: utils/variables.cfg:762
+msgid "I am called forth from eternal rest, bound to follow he who called me. Show me the enemy, master!"
+msgstr ""
+
+#. [recruit]: type=Ghost
+#: utils/variables.cfg:767
+msgid "Who calls me from my slumber? I sense a great battle being joined. Point me towards the enemy and I will feast upon their very souls!"
+msgstr ""
+
+#. [recruit]: type=Ghoul
+#: utils/variables.cfg:772
+msgid "I say, old sport! It looks like you've got a spot of bother. Well, chin up, I say! I'm sure we'll make a simply smashing team-up. We can sort this lot out and be done by tea, what?"
+msgstr ""
+
+#. [recruit]: type=Ghoul
+#: utils/variables.cfg:773
+msgid "Have at thee, unholy abomin... wait, huh?"
+msgstr ""
+
+#. [recruit]: type=Dark Adept
+#: utils/variables.cfg:778
+msgid "You may not trust me or my reasons, but it seems you are not in a position to be choosy about your allies. Let me assist you and you just may survive."
+msgstr ""
+
+#. [recruit]: type=Vampire Bat
+#: utils/variables.cfg:783
+msgid "Skreeeeeeee!"
+msgstr ""
+
+#. [recruit]: type=Vampire Bat
+#: utils/variables.cfg:784
+msgid "This creature seems unusually intelligent for its kind. Perhaps it will help us!"
+msgstr ""
+
+#. [recruit]: type=Walking Corpse
+#: utils/variables.cfg:789
+#, fuzzy
+msgid "..."
+msgstr "..."
+
+#. [recruit]: type=Walking Corpse
+#: utils/variables.cfg:790
+msgid "Odd, it doesn't seem to attack. I wonder if we can use it?"
+msgstr ""
+
+#. [recruit]: type=Ruffian
+#: utils/variables.cfg:795
+msgid "Oooh oooh oooh! I want to help! Pick me, pick me!"
+msgstr ""
+
+#. [recruit]: type=Ruffian
+#: utils/variables.cfg:796
+msgid "...fine. I guess."
+msgstr "...très bien. J'imagine."
+
+#. [artifact]
+#: utils/variables.cfg:818
+#, fuzzy
+msgid "Illuminates"
+msgstr "Illumination"
+
+#. [artifact]
+#: utils/variables.cfg:835
+#, fuzzy
+msgid "Heals + Cures"
+msgstr "guérison"
+
+#. [artifact]
+#: utils/variables.cfg:848
+#, fuzzy
+msgid "Regenerates"
+msgstr "Régénération"
+
+#. [artifact]
+#: utils/variables.cfg:861
+#, fuzzy
+msgid "Poison"
+msgstr "Poison"
+
+#. [artifact]
+#: utils/variables.cfg:884
+msgid "Add melee magical"
+msgstr "Ajoute mêlée magique"
+
+#. [artifact]
+#: utils/variables.cfg:899
+#, fuzzy
+msgid "Skirmisher"
+msgstr "Tirailleur"
+
+#. [artifact]
+#: utils/variables.cfg:913
+#, fuzzy
+msgid "Extra leadership"
+msgstr "commandement"
+
+#. [leadership]: id=banner
+#: utils/variables.cfg:922
+msgid "banner"
+msgstr "Bannière"
+
+#. [leadership]: id=banner
+#: utils/variables.cfg:923
+msgid ""
+"Leadership:\n"
+"This unit can lead ~allied~ units that are next to it, making them fight better.\n"
+"\n"
+"Adjacent allied units will do more damage in battle. When a unit adjacent to and on the same side as a unit with Leadership engages in combat, its attacks do 25% more damage.\n"
+"\n"
+"This is cumulative with leadership."
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:942
+msgid "Add melee arcane, resistance"
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:962
+#, fuzzy
+msgid "Add melee drain"
+msgstr "Vider depuis le haut"
+
+#. [artifact]
+#: utils/variables.cfg:977
+msgid "Teleports"
+msgstr "Téléportation"
+
+#. [artifact]
+#: utils/variables.cfg:998
+msgid "Add melee plague"
+msgstr "Add melee plague"
+
+#. [artifact]
+#: utils/variables.cfg:1013
+msgid "Add melee fire, resistance"
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:1033
+msgid "Up to 10% physical resistances + Steadfast"
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:1112
+msgid "Add ranged marksman"
+msgstr "ajoute tireur d'élite"
+
+#. [artifact]
+#: utils/variables.cfg:1128
+msgid "Water movement + Submerge"
+msgstr "Water movement + Submerge"
+
+#. [artifact]
+#: utils/variables.cfg:1171
+msgid "Add melee backstab"
+msgstr "Add melee backstab"
+
+#. [artifact]
+#: utils/variables.cfg:1186
+msgid "Chaotic + Halve experience requirements"
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:1205
+#, fuzzy
+msgid "Improved flight"
+msgstr "Vol avancé"
+
+#. [artifact]
+#: utils/variables.cfg:1273
+msgid "Adds ranged magical fire attack"
+msgstr ""
+
+#. [effect]: type=fire
+#: utils/variables.cfg:1278
+#, fuzzy
+msgid "storm trident"
+msgstr "trident des tempêtes"
+
+#. [artifact]
+#: utils/variables.cfg:1296
+msgid "Adds ranged magical arcane attack"
+msgstr ""
+
+#. [effect]: type=arcane
+#: utils/variables.cfg:1301
+#, fuzzy
+msgid "staff of radiance"
+msgstr "Bâton de pouvoir"
+
+#. [artifact]
+#: utils/variables.cfg:1343
+msgid "Adds melee cold and slows"
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:1360
+msgid "Snow movement + cold resistance"
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:1388
+#, fuzzy
+msgid "Feeding"
+msgstr "nécrophagie"
+
+#. [dummy]: id=feeding_special
+#: utils/variables.cfg:1395
+#, fuzzy
+msgid "feeding"
+msgstr "nécrophagie"
+
+#. [dummy]: id=feeding_special
+#: utils/variables.cfg:1396
+#, fuzzy
+msgid "female^feeding"
+msgstr "nécrophagie"
+
+#. [dummy]: id=feeding_special
+#: utils/variables.cfg:1397
+#, fuzzy
+msgid ""
+"Feeding:\n"
+"This unit gains 1 hitpoint added to its maximum whenever it kills a living unit."
+msgstr ""
+"Nécrophagie :\n"
+"Cette unité gagne un point de vie à chaque fois qu'elle tue une unité vivante. Ce point de vie est aussi ajouté au maximum."
+
+#. [artifact]
+#: utils/variables.cfg:1412
+msgid "Nightstalk + extra movement"
+msgstr "Utiliser des mouvement relatifs"
+
+#. [artifact]
+#: utils/variables.cfg:1429
+msgid "Lawful + Halve experience requirements"
+msgstr ""
+
+#. [artifact]
+#: utils/variables.cfg:1448
+#, fuzzy
+msgid "charge"
+msgstr "charge"
+
+#. [artifact]
+#: utils/variables.cfg:1464
+msgid "berserk + arcane weakness"
+msgstr ""
+
+#. [trainer]: type=Royal Guard
+#: utils/variables.cfg:1489
+msgid "Train in melee combat"
+msgstr "Améliorer les combats en mêlé"
+
+#. [trainer]: type=Master Bowman
+#: utils/variables.cfg:1502
+msgid "Train in ranged combat"
+msgstr "Améliorer le combat à distance"
+
+#. [trainer]: type=Iron Mauler
+#: utils/variables.cfg:1515
+msgid "Train health"
+msgstr "Améliorer la santé"
+
+#. [trainer]: type=Master at Arms
+#: utils/variables.cfg:1528
+msgid "Train movement"
+msgstr "Améliorer les mouvements"
+
+#. [trainer]: type=General
+#: utils/variables.cfg:1540
+msgid "Train combat experience"
+msgstr "Améliorer l'apprentissage"
+
+#. [trainer]: type=Ranger
+#: utils/variables.cfg:1552
+msgid "Train woodscraft"
+msgstr "Améliorer la foresterie"
+
+#. [unstore_unit]
+#: utils/variables.cfg:1634
+#, fuzzy
+msgid "+1 max HP"
+msgstr "+1 PV max"
+
+#. [message]
+#: utils/victory.cfg:21
+msgid "Victory is ours! Let us take sail in search of new lands to conquer!"
+msgstr "La victoire est à nous! Prenons la mer à la recherche de nouvelles terres à conquérir!"
+
+#. [message]
+#: utils/victory.cfg:33
+msgid "We win! Truly ours will be a glorious empire!"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:45
+msgid "Perhaps, but the path before us will not be easy. Between us and the great continents of the east lies the jungle island of Moragdu. Few have ever set foot on its treacherous shores and lived to tell the tale."
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:59
+msgid "Do not get hasty! To reach the great continents of the east we must pass by the savage sands of Shar-hazad, notorious for its corsairs. We must subdue the island before we can advance further."
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:73
+msgid "I truly hope so, but we have neither the supplies nor the ships for a long voyage now. If we wish to proceed we must brave the shorter northern crossing by way of the icy continent of Vrejland."
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:102
+msgid "Onwards to the ships! Wait... what?! A great whirlpool has swallowed our fleet!"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:107
+msgid "What sorcery is this?!"
+msgstr "Hum, qu'est-ce que c'est que cette sorcellerie?"
+
+#. [message]
+#: utils/victory.cfg:112
+msgid "Our enemies must be strong in magic to work such devilry. No doubt this is their final revenge upon us."
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:117
+msgid "Without ships we are stranded here. Our campaign is ended!"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:122
+msgid "Perhaps not. Legend says that there is an entrance to the Underworld bounded by these shores. If we cannot proceed over the sea, we shall go under it!"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:136
+msgid "Onwards to the ships!"
+msgstr "En avant! Vers nos bateaux!"
+
+#. [message]
+#: utils/victory.cfg:141
+msgid "A great storm is brewing, my lords. Should we not wait for better weather?"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:146
+msgid "Hah! We have travelled great oceans and brought low mighty empires. We will not be defeated by a bit of sea breeze!"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:168
+msgid "That's it, our work is done here!"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:173
+msgid "The whole world is now ours to command!"
+msgstr ""
+
+#. [message]
+#: utils/victory.cfg:178
+msgid "Maybe, but I still feel as if something else had to be done."
+msgstr ""
+
+#. [endlevel]
+#: utils/victory.cfg:183
+#, fuzzy
+msgid "The End"
+msgstr "Fin"
+
