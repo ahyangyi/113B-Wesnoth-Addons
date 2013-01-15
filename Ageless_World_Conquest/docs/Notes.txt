@@ -1,0 +1,6 @@
+Q. How to add a new faction?
+
+A. 1. Add the group definition in variables.cfg
+   2. For any fliers, add its name in variables.cfg for Winged Staff.
+   3. Add the L0/L1 units to the bonus trait list in variables.cfg.
+   4. For some flavours, add a few units to the terrain-specific ally list.

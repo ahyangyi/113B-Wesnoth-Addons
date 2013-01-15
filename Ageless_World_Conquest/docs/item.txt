@@ -22,7 +22,7 @@
 21. Snow movement + cold resistance
 22. Feeding
 23. Nightstalk + mov
-24. berserk + arcane weekness
+24. berserk + arcane weakness
 
 YY's implementations:
 25. Resis + Counter (Windsong Gatekeeper)
@@ -34,11 +34,34 @@ YY's implementations:
 : rC + 50%
 
 YY's proposals:
-29. The Guardian Orb of Seiryuu
-   Improved Defense
-30. The Guardian Orb of Byakko
-   Improved Hitpoints
-31. The Guardian Orb of Suzaku
-   Improved Counter-Damage
-32. The Guardian Orb of Genbu
-   Improved Resistance
+28. Book of Air
+Ranged damage + 1. Cold 7-2 magic ranged
+AMLA: +1 speed.
+
+29. Book of Fire
+Fire 9-2 ranged magical
+Shield of Fire 1
+AMLA: +1 damage to all melee attacks.
+
+30. Book of Water
+Be able to move in deep water, Impact 6-3 magic ranged
+AMLA: -30% exp required.
+
+31. Snowstrider (Issaelfr)
+Snowwalking, 50% defence on flat.
+The price is the user loses possible wood defense or ambush ability.
+
+32. Yak Charger (Issaelfr)
+Get 12-1 charge, and mountain movement.
+
+33. The Mithril Lance (Aragwaithi)
+All melee attacks becomes pierce and gets firststrike.
+
+34. Demon's blood (Infernai)
+Get Bloodlust (+8hp upon kill)
+
+35. 
+
+36. 
+
+37. 
